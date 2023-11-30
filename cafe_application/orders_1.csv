@@ -1,0 +1,4 @@
+customer name,customer address,customer number,courier,status
+Mark, 12 Clover Grove WL1 2ZR, 078988722394, 3, preparing,"1,2,3"
+Julia, 45 Goodwill Lane NR1 2LS, 075656347520, 2, processing,"2,3"
+Lara, 678 Gee's Street WJ1 8EL, 07556605335, 3,Ready for collection,"3,4,5"
